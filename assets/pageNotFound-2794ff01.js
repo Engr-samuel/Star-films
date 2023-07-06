@@ -1,1 +1,0 @@
-import{_ as s,H as c,F as r,r as e,o as _,c as d,d as o,a as t}from"./index-4fc748ac.js";const p={components:{Header:c,FooterVue:r}},l=t("div",{class:"container"},[t("h1",null,"PAGE NOT FOUND")],-1);function u(m,i,f,F,N,V){const n=e("Header"),a=e("FooterVue");return _(),d("main",null,[o(n),l,o(a)])}const $=s(p,[["render",u]]);export{$ as default};
